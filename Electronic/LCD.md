@@ -4,3 +4,6 @@ I was running some tests with the LCD 1602 HD44780 Display from Makershop.de sho
 The code was from the [LiquidCrystal_I2C](https://github.com/johnrickman/LiquidCrystal_I2C) and the [I2CScanner Libary](https://github.com/luisllamasbinaburo/Arduino-I2CScanner).
 
 The Problem with the Dysplay may be caused by some badly soldered parts and some oxidation on the Bord like shown in the picture below.
+<p align="center">
+<img src="https://github.com/Mrdayday/Online-submerged-photometer/blob/e422d6b28b3002144c15e33e2034f771823d7b8c/Img/IMG_7049.jpg" width="linewidth"/>
+</p>
