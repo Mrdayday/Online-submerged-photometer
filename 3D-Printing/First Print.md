@@ -5,4 +5,4 @@ For our first steps with 3D printing we used the Anycubic I3 Mega printer. The 3
 </p>
 
 
-The next step was to print a tube or more of a ring with the Anycubic.
+The next step was to print a tube or more of a ring with the Anycubic. The problem was, that we wanted to print it standing upwards, so the tention, of the fuluid dynamics inside the reaktion camber, do not breake the zylinder. The exacting force should not be along with the filaments layers. We needed a few prints to achieve this. We had some truble with the suport structures. The main topic with this issue was to find the right angle to start with the suport structures.
