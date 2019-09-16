@@ -1,4 +1,3 @@
-#Online-submerged-photometer
 ## What is this component for?
 Its part of the FermenTUM project. This is a photometer for submerged use inside a biological reactor during fermentation.
 
