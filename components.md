@@ -14,7 +14,7 @@ This is a list of the bought components:
 </tr>
 <tr>
 <td>LED</td>
-<td>https://www.leds.de/osram-oslon-ssl-150-smd-led-mit-10x10mm-platine-gelb-593nm-33990.html</td>
+<td><a href="https://www.leds.de/osram-oslon-ssl-150-smd-led-mit-10x10mm-platine-gelb-593nm-33990.html">Leds.de</a></td>
 </tr>
 <tr>
 <td>LCD1602 display</td>
@@ -31,6 +31,14 @@ This is a list of the bought components:
 <tr>
 <td>PVA</td>
 <td><a href="https://www.amazon.de/Renkforce-Filament-1-75mm-Transparent-500g/dp/B073JYMLZJ/ref=sr_1_1?__mk_de_DE=ÅMÅŽÕÑ&keywords=renkforce+pva&qid=1568635718&s=ce-de&sr=1-1-catcorr">Amazon (Renkforce)</a></td>
+</tr>
+<tr>
+<td>Glue</td>
+<td><a href="https://www.obi.de/lackreparatur-karosseriereparatur/presto-kunststoffspachtel-250-g/p/6636450>Obi</a></td>
+</tr>
+<tr>
+<td>Microscope slides</td>
+  <td><a href="https://www.marienfeld-superior.com/information-about-our-microscope-slides.html">Marienfeld</a></td>
 </tr>
 </tbody>
 </table>
