@@ -34,7 +34,7 @@ This is a list of the bought components:
 </tr>
 <tr>
 <td>Glue</td>
-<td><a href="https://www.obi.de/lackreparatur-karosseriereparatur/presto-kunststoffspachtel-250-g/p/6636450>Obi</a></td>
+<td><a href="https://www.obi.de/lackreparatur-karosseriereparatur/presto-kunststoffspachtel-250-g/p/6636450">Obi</a></td>
 </tr>
 <tr>
 <td>Microscope slides</td>
