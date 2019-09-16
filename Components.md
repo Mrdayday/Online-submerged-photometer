@@ -40,6 +40,10 @@ This is a list of the bought components:
 <td>Microscope slides</td>
   <td><a href="https://www.marienfeld-superior.com/information-about-our-microscope-slides.html">Marienfeld</a></td>
 </tr>
+<tr>
+<td>RS485 converter</td>
+<td><a href="https://www.ebay.de/sch/i.html?_odkw=Max+485&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR4.TRC0.A0.H0.XMax485.TRS0&_nkw=Max485&_sacat=0">Ebay</a></td>
+</tr>
 </tbody>
 </table>
 
