@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/Mrdayday/Online-submerged-photometer/blob/master/Img/PhoTUM_logo.jpg" width="linewidth"/>
+</p>
+
 ## What is this component for?
 Its part of the FermenTUM project. This is a photometer for submerged use inside a biological reactor during fermentation.
 
