@@ -10,6 +10,11 @@ Once you have printed all parts you can start assambling them. You can assable t
 There is one part missing at the bottem of the submerged part.
 We used a half sphere of steel to get rid of the heat produced by the LED. So it would be good to get one of these or somthing
 else of equal thermal conductivity and connect it with thermal paste. All other things you can find [here](https://github.com/Mrdayday/Online-submerged-photometer/blob/master/Components.md)
+
+<p align="center">
+<img src="https://github.com/Mrdayday/Online-submerged-photometer/blob/master/Img/LED_glued.jpg" width="400"/>
+<p>
+
 There is a high chance that you will get inaccurate results if you let the LED heat up. Next step is to connect the wires to 
 the light source and push them throug the tiny tunnel on the side. Now glue it together and put fix the glass panels in the frames.
 
@@ -34,6 +39,10 @@ Now you shold make the stripboard it is a lot of soldering but worth it. You get
 
 <p align="center">
 <img src="https://github.com/Mrdayday/Online-submerged-photometer/blob/master/Img/Board_layout.jpg" width="400"/>
+<p>
+  
+<p align="center">
+<img src="https://github.com/Mrdayday/Online-submerged-photometer/blob/master/Img/Box_complete.JPG" width="400"/>
 <p>
 
 Now solder everthing to the stripboard but everthing that leaves the box sould use a jumperwire connected to the sideslots of the box.
