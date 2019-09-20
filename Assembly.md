@@ -17,7 +17,7 @@ the light source and push them throug the tiny tunnel on the side. Now glue it t
 <img src="https://github.com/Mrdayday/Online-submerged-photometer/blob/master/Img/Photo_unit.jpg" width="400"/>
 <p>
 
-Now it might be useful to plug everything to the [breadboard](https://github.com/Mrdayday/Online-submerged-photometer/blob/master/Wiring.md) and search for the perfect place for the sensor to get the highes value at the bussarry(0).
+Now it might be useful to plug everything to the [breadboard](https://github.com/Mrdayday/Online-submerged-photometer/blob/master/Wiring.md) and search for the perfect place for the sensor to get the highes value at the busarry(0).
 If you find it glue the sensor and solder the cables.
 
 <p align="center">
