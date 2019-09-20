@@ -29,13 +29,13 @@ If you find it glue the sensor and solder the cables.
 <img src="https://github.com/Mrdayday/Online-submerged-photometer/blob/master/Img/Sensor_build.jpg" width="400"/>
 <p>
 
-Now connect the neck of the submerged part and lead the wires to the top. Should look like this:
+Now connect the neck of the submerged part and lead the wires to the top. We used hot glue all the time. The result should look like this:
 
 <p align="center">
 <img src="https://github.com/Mrdayday/Online-submerged-photometer/blob/master/Img/Submerged_part.jpg" width="400"/>
 <p>
 
-Now you shold make the stripboard it is a lot of soldering but worth it. You get rid of a lot of cabels that tend to brake or unplug and last but not least it looks better.
+Now you shold built the stripboard. It is a lot of soldering, but worth it. You can get rid of a lot of cabels, that tend to brake or unplug and last but not least it looks better.
 
 <p align="center">
 <img src="https://github.com/Mrdayday/Online-submerged-photometer/blob/master/Img/Board_layout.jpg" width="400"/>
@@ -45,8 +45,8 @@ Now you shold make the stripboard it is a lot of soldering but worth it. You get
 <img src="https://github.com/Mrdayday/Online-submerged-photometer/blob/master/Img/Box_complete.JPG" width="400"/>
 <p>
 
-Now solder everthing to the stripboard but everthing that leaves the box sould use a jumperwire connected to the sideslots of the box.
-This is everthing that is connected to the submerged part(5 cabels), the bussystem (2 cabels) and the 12V powersuply (2 cabels).
+Now solder everthing to the stripboard. Everthing that leaves the box sould use a jumperwire connected to the sideslots of the box.
+This includes everthing that is connected to the submerged part (5 cabels), the bussystem (2 cabels) and the 12 V powersuply (2 cabels).
 Attach the display and the board to the box. Glue a microscope slide as a display protection to the front, if you want. 
 
 Everything should be ready for commissioning. Attach the box to the reaktor cover and tighten the locknut in the right position.
